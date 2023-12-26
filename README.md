@@ -28,5 +28,5 @@ GitHub Contributions Viewer is a web application that allows users to track thei
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Shouvik40/github-contributions-viewer.git
+git clone https://github.com/Shouvik40/github-contribution-graph-viewer-app.git
 ```
